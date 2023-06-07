@@ -1,11 +1,11 @@
 {
   "name": "@fxliperibeiro/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration used by @fxliperibeiro.",
   "main": "index.js",
   "license": "MIT",
-    "dependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "eslint": "^7.23.0 || ^8.0.0",
