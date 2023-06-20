@@ -14,8 +14,9 @@ module.exports = {
     'prettier/prettier': [
       'error',
       {
-        printWidth: 120,
+        printWidth: 80,
         tabWidth: 2,
+        endOfLine: 'auto',
         singleQuote: true,
         trailingComma: 'all',
         arrowParens: 'always',
