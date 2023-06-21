@@ -16,7 +16,8 @@ npm i -D eslint @fxliperibeiro/eslint-config
 }
 ```
 ### Node:
-```{
+```
+{
    "extends": "@rocketseat/eslint-config/node"
 }
 ```
